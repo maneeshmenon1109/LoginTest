@@ -1,0 +1,130 @@
+[
+  {
+    "source": "^The application is launched$",
+    "steps": [
+      {
+        "name": "The application is launched",
+        "aggregatedDurations": {
+          "average": 6.903440698,
+          "median": 6.903440698
+        },
+        "durations": [
+          {
+            "duration": 6.903440698,
+            "location": "login.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^it should be navigated to result page$",
+    "steps": [
+      {
+        "name": "it should be navigated to result page",
+        "aggregatedDurations": {
+          "average": 0.059697242,
+          "median": 0.059697242
+        },
+        "durations": [
+          {
+            "duration": 0.059697242,
+            "location": "login.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter the valid \"(.*)\" and valid \"(.*)\" with case-sensitive$",
+    "steps": [
+      {
+        "name": "Enter the valid \"Maneesh\" and valid \"GamePlan\" with case-sensitive",
+        "aggregatedDurations": {
+          "average": 9.782329099,
+          "median": 9.782329099
+        },
+        "durations": [
+          {
+            "duration": 9.782329099,
+            "location": "login.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^all input fields are available$",
+    "steps": [
+      {
+        "name": "all input fields are available",
+        "aggregatedDurations": {
+          "average": 0.395982071,
+          "median": 0.395982071
+        },
+        "durations": [
+          {
+            "duration": 0.395982071,
+            "location": "login.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]match": {
+              "arguments": [
+                {
+                  "val": "Maneesh",
+                  "offset": 17
+                },
+                {
+                  "val": "GamePlan",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefinitions.EnterInput_1(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59697242,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "it should be navigated to result page",
+            "match": {
+              "location": "StepDefinitions.postiveValidation1()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Testtag"
+          },
+          {
+            "line": 8,
+            "name": "@positive-1"
+          }
+        ]
+      }
+    ],
+    "name": "Testing the Login Application",
+    "description": "",
+    "id": "testing-the-login-application",
+    "keyword": "Feature",
+    "uri": "login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Testtag"
+      }
+    ]
+  }
+]
