@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.095699">
-<testcase classname="Testing the Login Application" name="Positive scenario -1" time="21.095699">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.393091">
+<testcase classname="Testing the Login Application" name="Positive scenario -1" time="26.393091">
 <system-out><![CDATA[Given The application is launched...........................................passed
 When all input fields are available.........................................passed
 And Enter the valid "Maneesh" and valid "GamePlan" with case-sensitive......passed

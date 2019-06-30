@@ -82,14 +82,14 @@ formatter.match({
   "location": "StepDefinitions.goToApplication()"
 });
 formatter.result({
-  "duration": 6903440698,
+  "duration": 13097952185,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.validatePage()"
 });
 formatter.result({
-  "duration": 395982071,
+  "duration": 608432968,
   "status": "passed"
 });
 formatter.scenario({
@@ -138,18 +138,18 @@ formatter.match({
   "location": "StepDefinitions.EnterInput_1(String,String)"
 });
 formatter.result({
-  "duration": 9782329099,
+  "duration": 10732056221,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.postiveValidation1()"
 });
 formatter.result({
-  "duration": 59697242,
+  "duration": 91730841,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3954250093,
+  "duration": 1862918977,
   "status": "passed"
 });
 });

@@ -5,12 +5,12 @@
       {
         "name": "The application is launched",
         "aggregatedDurations": {
-          "average": 6.903440698,
-          "median": 6.903440698
+          "average": 13.097952185,
+          "median": 13.097952185
         },
         "durations": [
           {
-            "duration": 6.903440698,
+            "duration": 13.097952185,
             "location": "login.feature:5"
           }
         ]
@@ -23,12 +23,12 @@
       {
         "name": "it should be navigated to result page",
         "aggregatedDurations": {
-          "average": 0.059697242,
-          "median": 0.059697242
+          "average": 0.091730841,
+          "median": 0.091730841
         },
         "durations": [
           {
-            "duration": 0.059697242,
+            "duration": 0.091730841,
             "location": "login.feature:11"
           }
         ]
@@ -41,12 +41,12 @@
       {
         "name": "Enter the valid \"Maneesh\" and valid \"GamePlan\" with case-sensitive",
         "aggregatedDurations": {
-          "average": 9.782329099,
-          "median": 9.782329099
+          "average": 10.732056221,
+          "median": 10.732056221
         },
         "durations": [
           {
-            "duration": 9.782329099,
+            "duration": 10.732056221,
             "location": "login.feature:10"
           }
         ]
@@ -59,19 +59,19 @@
       {
         "name": "all input fields are available",
         "aggregatedDurations": {
-          "average": 0.395982071,
-          "median": 0.395982071
+          "average": 0.608432968,
+          "median": 0.608432968
         },
         "durations": [
           {
-            "duration": 0.395982071,
+            "duration": 0.608432968,
             "location": "login.feature:6"
           }
         ]
       }
     ]
   }
-]match": {
+]h": {
               "arguments": [
                 {
                   "val": "Maneesh",
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 59697242,
+              "duration": 91730841,
               "status": "passed"
             },
             "line": 11,

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="myGroup.TestLogin.TestRunner" time="3.964" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="myGroup.TestLogin.TestRunner" time="1.872" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
@@ -27,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\home\Desktop\My_Java_Works\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2519469090958664256.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\home\Desktop\My_Java_Works\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7253119223334811675.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_211\bin;C:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\Cloud Foundry;C:\Users\home\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-12\bin;;C:\eclipse-jee-photon-R-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_211\bin;C:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\Cloud Foundry;C:\Users\home\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_211\bin;C:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;;C:\eclipse-jee-photon-R-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,9 +61,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="| Maneesh | GamePlan |" name="Given The application is launched" time="0.005"/>
+  <testcase classname="| Maneesh | GamePlan |" name="Given The application is launched" time="0.007"/>
   <testcase classname="| Maneesh | GamePlan |" name="When all input fields are available" time="0"/>
   <testcase classname="| Maneesh | GamePlan |" name="And Enter the valid &quot;Maneesh&quot; and valid &quot;GamePlan&quot; with case-sensitive" time="0"/>
   <testcase classname="| Maneesh | GamePlan |" name="Then it should be navigated to result page" time="0"/>
-  <testcase classname="| Maneesh | GamePlan |" name="| Maneesh | GamePlan |" time="3.959"/>
+  <testcase classname="| Maneesh | GamePlan |" name="| Maneesh | GamePlan |" time="1.865"/>
 </testsuite>

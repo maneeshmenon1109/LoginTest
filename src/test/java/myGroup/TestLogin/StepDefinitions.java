@@ -35,7 +35,7 @@ public class StepDefinitions {
 		setUp();
 
 		//Navigating to page
-		driver.navigate().to("http://localhost:8085/login"); 
+		driver.navigate().to("https://maneeshdemologin.cfapps.io/login"); 
 	} 
 
 
@@ -140,18 +140,18 @@ public class StepDefinitions {
 	@After
 	public void closure() throws InterruptedException
 	{
-		Thread.sleep(3000);
-		CucumberResultsOverview results = new CucumberResultsOverview();
-		results.setOutputDirectory(".//target//cucumber");
-		results.setOutputName("Cucumber Report");
-		results.setSourceFile(".//target//cucumber//Cucumber.json");
-		try {
-			results.executeFeaturesOverviewReport();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
+		Thread.sleep(1000);
+//		CucumberResultsOverview results = new CucumberResultsOverview();
+//		results.setOutputDirectory(".//target//cucumber");
+//		results.setOutputName("Cucumber Report");
+//		results.setSourceFile(".//target//cucumber//Cucumber.json");
+//		try {
+//			results.executeFeaturesOverviewReport();
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//		
 		driver.close();
 		driver.quit();
 	}
